@@ -1,4 +1,5 @@
-import logo from './mta.png';
+// import logo from './mta.png';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -8,6 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to the Automation Presentation
+        </p>
+        <p>
+          Learn react
         </p>
       </header>
     </div>
