@@ -11,7 +11,7 @@ function App() {
           Welcome to the Automation Presentation
         </p>
         <p>
-          Learn react
+          MTA is presenting this
         </p>
       </header>
     </div>
