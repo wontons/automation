@@ -1,5 +1,5 @@
-// import logo from './mta.png';
-import logo from './logo.svg';
+import logo from './mta.png';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
